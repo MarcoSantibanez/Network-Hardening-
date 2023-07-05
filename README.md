@@ -6,3 +6,6 @@ Analysis of network hardening
 # The report includes information about adding general security hardening practices, a recommendation for how often the hardening practices should be performed, and an explanation of what the potential consequences are if the policy is not followed. 
 
 ~ Attached is the Security risk assessment report. 
+
+
+![Screenshot 2023-07-05 103620](https://github.com/MarcoSantibanez/Network-Hardening-/assets/138132151/6aad3677-88f8-4dac-9ead-71b9f6a1c0aa)
