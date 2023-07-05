@@ -8,4 +8,5 @@ Analysis of network hardening
 ~ Attached is the Security risk assessment report. 
 
 
-![Screenshot 2023-07-05 103620](https://github.com/MarcoSantibanez/Network-Hardening-/assets/138132151/6aad3677-88f8-4dac-9ead-71b9f6a1c0aa)
+![image](https://github.com/MarcoSantibanez/Network-Hardening-/assets/138132151/d76773e5-7ab5-4292-a488-a231a478af70)
+
